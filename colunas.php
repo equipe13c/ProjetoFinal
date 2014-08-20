@@ -72,7 +72,7 @@
                 </div>
                 <article id="conteudo">    
                 <div id="materias">
-                    Isso aqui tá uma bosta                  
+                    Colunas                  
                 </div>
                 <div id="coluna-lateral">
                     <div class="top"> Top Notícias 
