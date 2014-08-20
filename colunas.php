@@ -72,7 +72,7 @@
                 </div>
                 <article id="conteudo">    
                 <div id="materias">
-                    Colunas                  
+                    Colunas de Matérias                 
                 </div>
                 <div id="coluna-lateral">
                     <div class="top"> Top Notícias 
