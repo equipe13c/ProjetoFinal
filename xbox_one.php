@@ -21,30 +21,12 @@
                         <ul class="xbox">
                             <li><a href="index.php"> Home </a></li>
                             <li><a href="colunas.php"> Colunas </a>
-                                <ul class="submenu-xbox">
-                                    <li><a href="#"> Personagens </a></li>
-                                    <li><a href="#"> Gêneros </a></li>
-                                    <li><a href="#"> Séries </a></li>
-                                </ul>
                             </li>
                             <li><a href="#"> Playstation </a>
-                                <ul class="submenu-xbox"> 
-                                    <li><a href="ps3.php"> PS3 </a></li>
-                                    <li><a href="ps4.php"> PS4 </a></li>
-                                </ul>
                             </li>
                             <li><a href="#"> Nintendo </a>
-                                <ul class="submenu-xbox"> 
-                                    <li><a href="wii.php"> Nintendo Wii </a></li>
-                                    <li><a href="wii_u.php"> Nintendo Wii U </a></li>
-                                    <li><a href="#.php"> Nintendo 3DS </a></li>
-                                </ul>
                             </li>
                             <li><a href="#"> XBOX </a>
-                                <ul class="submenu-xbox"> 
-                                    <li><a href="xbox_360.php"> XBOX 360 </a></li>
-                                    <li><a href="xbox_one.php"> XBOX ONE </a></li>
-                                </ul>
                             </li>
                             <li><a href="pc.php"> PC </a></li>
                             <li><a href="#"> Outras Plataformas </a>
